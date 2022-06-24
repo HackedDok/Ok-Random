@@ -2,7 +2,7 @@ import os, sys
 
 try:
 
-    __import__("rand").main()
+    __import__("RandomOk").main()
 
 except Exception as e:
 
